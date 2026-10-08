@@ -1,4 +1,4 @@
 # Saiphou
 <div align="center">
-  <img src="https://i.pinimg.com/originals/52/0f/ab/520fabd0af0f102c101682396ce122fd.gif" alt="Ma bannière animée" />
+<img width="498" height="252" alt="Type GIF – Type – discover and share GIFs" src="https://github.com/user attachments/assets/a30fdaf7-175f-4570-b873-85caccdf08e8" />
 </div>
