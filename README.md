@@ -9,7 +9,7 @@
 
 ## 🌸 À propos de moi
 
-- 💜 Je suis étudiante en deuxième année a l'IUT Robert Schuman
+- 💜 Je suis étudiante en deuxième année à l'IUT Robert Schuman à Illkirch
 - 🦄 Je parle 10 langages de programmation, mais je cherche encore mes point-virgules
 - 🎮 Je crée des jeux avec Godot (et je passe plus de temps à choisir les couleurs qu'à coder)
 - 🧋 Je fonctionne au bubble tea et au café bien évidemment
