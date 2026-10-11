@@ -1,22 +1,23 @@
 <div align="center">
 
-# Salut, je suis [Prénom] 🎀
-<img src="banniere.gif" alt="Bannière" width="480">
-### Je code en rose, je débogue en larmes
- 
-*Oui, mon code marche. Non, je ne sais pas pourquoi. On n'y touche plus.* 💅
- 
+# Salut, je suis Alyxiane 💅
+
+<img width="480" height="252" alt="Bannière" src="https://github.com/user-attachments/assets/a5327ed7-0e81-4cf2-b7c3-765ba7d7743f" />
+
+### Je ne fais pas de bugs, je fais des fonctionnalités surprises ✨
+
 </div>
+
 ## 🌸 À propos de moi
- 
-- 💜 [Ce que tu fais : études, niveau, passion...]
+
+- 💜 Je suis étudiante en deuxième année a l'IUT Robert Schuman
 - 🦄 Je parle 10 langages de programmation, mais je cherche encore mes point-virgules
 - 🎮 Je crée des jeux avec Godot (et je passe plus de temps à choisir les couleurs qu'à coder)
-- 🧋 Je fonctionne au [bubble tea / café / chocolat chaud]
-- 🌱 En ce moment j'apprends : [ce que tu apprends]
-- 🐛 Mes bugs ne sont pas des bugs, ce sont des *surprises*
+- 🧋 Je fonctionne au bubble tea et au café bien évidemment
+- 🌱 En ce moment j'apprends le Swift
+
 ## 💖 Mes langages
- 
+
 ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=white)
@@ -27,13 +28,13 @@
 ![C#](https://img.shields.io/badge/C%23-BA55D3?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-9B59B6?style=for-the-badge&logo=swift&logoColor=white)
- 
+
 ## 🎮 Mon moteur de jeu
- 
+
 ![Godot](https://img.shields.io/badge/Godot-F472B6?style=for-the-badge&logo=godotengine&logoColor=white)
- 
+
 ## 🛠️ Ma trousse à outils
- 
+
 ![Git](https://img.shields.io/badge/Git-BA55D3?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-9B59B6?style=for-the-badge&logoColor=white)
@@ -43,6 +44,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-9B59B6?style=for-the-badge&logo=xcode&logoColor=white)
 
 <div align="center">
+
 *Merci d'être passé par ici, reviens quand tu veux* 💜
 
 </div>
