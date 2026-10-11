@@ -10,7 +10,7 @@
 ## 🌸 À propos de moi
 
 - 💜 Je suis étudiante en deuxième année à l'IUT Robert Schuman à Illkirch
-- 🦄 Je parle 10 langages de programmation, mais je cherche encore mes point-virgules
+- 🦄 Je parle 11 langages de programmation, mais je cherche encore mes point-virgules
 - 🎮 Je crée des jeux avec Godot (et je passe plus de temps à choisir les couleurs qu'à coder)
 - 🧋 Je fonctionne au bubble tea et au café bien évidemment
 - 🌱 En ce moment j'apprends le Swift
@@ -27,6 +27,7 @@
 ![C#](https://img.shields.io/badge/C%23-BA55D3?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-9B59B6?style=for-the-badge&logo=swift&logoColor=white)
+![Assembleur](https://img.shields.io/badge/Assembleur-F472B6?style=for-the-badge&logoColor=white)
 
 ## 🎮 Mon moteur de jeu
 
