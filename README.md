@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, je suis Alyxiane 💅
+# Hi ! Je suis Alyxiane 💅
 <img width="480" height="304" alt="cc4793035befac8a734f010d74af71ef" src="https://github.com/user-attachments/assets/e83c3a64-6cd2-4b12-bb0f-7bd35b96817d" />
 
 ### Je ne fais pas de bugs, je fais des fonctionnalités surprises ✨
